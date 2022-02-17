@@ -25,9 +25,9 @@
 
 #### 📈 My Github Stats
 <a href="https://github.com/neophyte88/">
-  <p align="left">
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=neophyte88&show_icons=true&theme=gotham" alt="neophyte88"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neophyte88&theme=dracula&hide_langs_below=1" height=175/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neophyte88&theme=dracula&hide_langs_below=1" width=400 height=175/>
   </p>
 </a>
 <!--
