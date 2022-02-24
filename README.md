@@ -14,10 +14,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT0BKumCMrUb0dCypa/giphy.gif" width="350" height="275" style="border-radius:10px" />
 <!--
-#### 🔭 I’m currently working on a Learning Platform (coming soon) -->
+#### 🔭 I’m currently working on a Learning Platform (coming soon)
+#### 🤔 I’m looking for help with Bootstrap/Frontend
+-->
 #### 🌱 I’m currently learning Django
 #### 💬 Ask me about almost anything python
-#### 🤔 I’m looking for help with Bootstrap/Frontend
 #### 🔵 Pronouns: He/They
 
 <br>
