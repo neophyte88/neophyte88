@@ -17,6 +17,7 @@
 #### 🌱 I’m currently learning Django
 #### 💬 Ask me about almost anything python
 #### 🔵 Pronouns: He/They
+#### 🔭 I’m currently working on <a href='https://nerdtech.in/'> HerdHelp Backend </a>
 
 <br>
 </p> 
@@ -24,7 +25,7 @@
 #### 📈 My Github Stats
 <a href="https://github.com/neophyte88/">
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=neophyte88&show_icons=true&theme=gotham" alt="neophyte88"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=neophyte88&show_icons=true&theme=dracula" alt="neophyte88"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neophyte88&theme=dracula&hide_langs_below=1" width= 350 height=175/>
   </p>
 </a>
