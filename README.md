@@ -17,7 +17,7 @@
 #### 🌱 I’m currently learning Django
 #### 💬 Ask me about almost anything python
 #### 🔵 Pronouns: He/They
-#### 🔭 I’m currently working on <a href='https://nerdtech.in/'> HerdHelp Backend </a>
+
 
 <br>
 </p> 
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+#### 🔭 I’m currently working on <a href='https://nerdtech.in/'> HerdHelp Backend </a>
 
 #### 🔭 I’m currently working on a Learning Platform (coming soon)
 #### 🤔 I’m looking for help with Bootstrap/Frontend
