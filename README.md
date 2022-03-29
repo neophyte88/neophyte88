@@ -16,7 +16,7 @@
 
 #### 🌱 I’m currently learning Django
 #### 💬 Ask me about almost anything python
-#### 🔵 Pronouns: He/They
+#### 🔵 Pronouns: He/Him
 
 
 <br>
