@@ -12,7 +12,7 @@
   <img align="left" alt="neophyte88's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT0BKumCMrUb0dCypa/giphy.gif" width="350" height="275" style="border-radius:10px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT0BKumCMrUb0dCypa/giphy.gif" width="375" height="275" style="border-radius:10px" />
 
 #### 🌱 I’m currently learning Django
 #### 💬 Ask me about almost anything python
@@ -20,17 +20,19 @@
 
 
 <br>
+  <br>
 </p> 
 
 #### 📈 My Github Stats
 <a href="https://github.com/neophyte88/">
   <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neophyte88&theme=dracula&hide_langs_below=1" />
     <img src="https://github-readme-stats.vercel.app/api?username=neophyte88&show_icons=true&theme=dracula" alt="neophyte88"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neophyte88&theme=dracula&hide_langs_below=1" width= 350 height=175/>
+    
   </p>
 </a>
 <!--
-**neophyte88/neophyte88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**neophyte88/neophyte88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.width= 450 height=175/>
 
 Here are some ideas to get you started:
 
