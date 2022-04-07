@@ -14,7 +14,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT0BKumCMrUb0dCypa/giphy.gif" width="375" height="275" style="border-radius:10px" />
 
-#### 🌱 I’m currently learning Django
+#### 🌱 I’m currently learning Firebase
 #### 💬 Ask me about almost anything python
 #### 🔵 Pronouns: He/Him
 
