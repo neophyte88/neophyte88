@@ -1,5 +1,5 @@
 ### Hello there 👋
-
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neophyte88&label=Views&color=blue&style=plastic" alt="neophyte88" /> 
 
 <a href="https://www.linkedin.com/in/neophyte-88/">
@@ -12,15 +12,18 @@
   <img align="left" alt="neophyte88's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT0BKumCMrUb0dCypa/giphy.gif" width="375" height="275" style="border-radius:10px" />
 
+  
 #### 🌱 I’m currently learning Firebase
 #### 💬 Ask me about almost anything python
 #### 🔵 Pronouns: He/Him
 
-
-<br>
-  <br>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/neophyte88.png" alt="TryHackMe">
+<br>  
+<hr>
+  
 </p> 
 
 #### 📈 My Github Stats
