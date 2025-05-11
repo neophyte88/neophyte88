@@ -16,8 +16,8 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT0BKumCMrUb0dCypa/giphy.gif" width="375" height="275" style="border-radius:10px" />
 
   
-#### 🌱 I’m currently learning idk what tbh (solidity)
-#### 💬 Ask me about almost anything
+#### 🌱 I’m currently learning idk what tbh (golang/solidity)
+#### 💬 Ask me about almost anything (i have a opinion about everything)
 #### 🔭 I’m currently working on umm that thing i started yesterday
 #### 🔵 Pronouns: He/Him
 
